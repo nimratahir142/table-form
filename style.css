@@ -1,0 +1,18 @@
+body{
+background-image: url(cls5.jfif);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    text-align: center;
+    background-color: aqua;
+}
+tr:hover{
+    background-color: rgb(60, 179, 248);
+    color: white;
+}
